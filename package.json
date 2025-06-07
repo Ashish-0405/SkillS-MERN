@@ -1,0 +1,26 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "Skills for MERN Stack Developer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish-0405/SkillS-MERN-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ashish-0405/SkillS-MERN-/issues"
+  },
+  "homepage": "https://github.com/Ashish-0405/SkillS-MERN-#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
